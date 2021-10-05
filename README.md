@@ -20,7 +20,7 @@ In this challenge, a farmer is asking you to tell him how many legs can be count
 -   `cows` = 4 legs
 -   `pigs` = 4 legs
 
-The farmer has counted his animals and he gives you a subtotal for each species. You have to implement a function that returns the **total number of legs** of all the animals.
+The farmer has counted his animals and he gives you a subtotal for each species. You have to implement a function that returns the **total number of legs** of all the animals. Note that the parameters are in order (chickens, cows, pigs).
 
 ### Challenge
 
