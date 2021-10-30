@@ -10,3 +10,8 @@
  - create a function that combine a person fullname, the parameter will be an array of string.
  - example:
   - `joinFullname(['John', 'Wick'])` => 'John Wick'
+
+3. Soal 3
+ - create a function that convert string into the string length in an array, the parameter will be an array of string.
+ - example
+  - `wordLength(['ayam', 'dinosaurus', 'kambing'])` => [4, 10, 7]
