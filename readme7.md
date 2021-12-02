@@ -1,8 +1,13 @@
 # Quiz Node.js .
 
 In this quiz i need you to make 2 endpoint. and database called user. that received user data. it contains:
-- Username
-- Password
+- Username = string
+- Password = string
+- fullname = string
+- age = number
+- occupation = string
+- isMarried = boolean
+
 
 and have validation:
 - username must be unique
@@ -33,4 +38,18 @@ expected response:
 {
 "message": "Legitimate User"
 }
+```
+
+
+```
+/findByAge => search user by their age that greater than the input
+```
+
+
+```
+/findByOccupationAndAge => search user by their age greater than the input and by their occupation
+```
+
+```
+/findName => search user by their name though i will input it from middle front or back
 ```
