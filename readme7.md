@@ -42,12 +42,12 @@ expected response:
 
 
 ```
-/findByAge => search user by their age that greater than the input
+/findByAge => search user by their age that greater than equal the input
 ```
 
 
 ```
-/findByOccupationAndAge => search user by their age greater than the input and by their occupation
+/findByOccupationAndAge => search user by their age greater than equal the input and by their occupation
 ```
 
 ```
