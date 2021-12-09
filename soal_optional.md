@@ -1,4 +1,4 @@
-# Tugas Khusus Lucky dan Nashir
+# Tugas 
 
 
 Create 1 endpoint called ```/upload```. that can upload a file. and then rename file with this format: ```[filename]_[seconds]_[first letter of your first name and first letter of your second name].[extension]```
