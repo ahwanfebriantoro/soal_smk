@@ -17,7 +17,7 @@ requirement :
 - User able to show detail of their to do list
 - User able to update notes
 - User able to delete notes
-- User not able to see other user todo list ( optional ) (plus if you able complete this requirement)
+- User not able to see other user todo list
 - User can make them notes is priority.
 - User able to log out, if log out just send message "Log out Success"
 - pagination (optional) (plus if you able complete this requirement)
