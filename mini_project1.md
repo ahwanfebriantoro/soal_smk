@@ -20,7 +20,7 @@ requirement :
 - User not able to see other user todo list
 - User can make them notes is priority.
 - User able to log out, if log out just send message "Log out Success"
-- pagination (optional) (plus if you able complete this requirement)
+- pagination
 - Must fill all form. if not show an error
 
 
