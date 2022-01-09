@@ -22,6 +22,7 @@ requirement :
 - User able to log out, if log out just send message "Log out Success"
 - pagination
 - Must fill all form. if not show an error
+- Must Deploy
 
 
 after complete this assignment please submit in this form:
