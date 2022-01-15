@@ -7,4 +7,7 @@
 - book can be created
 - before borrowing a book student must registered as a legitimate student in that school
 - each student can see his own list of borrowing a book. other student can't see other list
-- if book already returned. the book will not show in list
+- if book not returned. the book will not show in list
+- must have list of all books
+- if book not returned in due time. will be charged for Rp.3000
+- must show bill of students bill charge
