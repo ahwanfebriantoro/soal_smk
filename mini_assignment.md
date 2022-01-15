@@ -11,3 +11,4 @@
 - must have list of all books
 - if book not returned in due time. will be charged for Rp.3000
 - must show bill of students bill charge
+- testing (optional)
